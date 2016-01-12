@@ -1,28 +1,18 @@
-name: Equinsight
-favicon: null
-layout_spectrum: 0.24271
-typography_spectrum: 0.65312
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
+    - '#88A0B0'
+    - '#008080'
+    - '#609898'
+    - '#F80000'
     - '#000000'
-    - '#995532'
-    - '#663821'
-    - '#2a180e'
-    - '#d29779'
   brandStrength: 0.7292255689390004
   lightness: 0.2407628963701427
-  saturation: 0.4860698813572526
   rhythmicContrast: 0.0009546298533678055
+  saturation: 0.4860698813572526
+cta: {}
+layout_spectrum: 0.24271
+name: Equinsight
+opengraph: {}
 purpose: []
+typography_spectrum: 0.65312
