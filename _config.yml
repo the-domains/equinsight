@@ -1,8 +1,7 @@
 name: Equinsight
 favicon: null
-layout_spectrum: 0.24271
-typography_spectrum: 0.65312
-title: "Unique insight into your horse's health"
+layout_spectrum: 0.15519220801070333
+typography_spectrum: 0.8925069475080818
 cta:
   domain: null
   bucket: null
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#88A0B0'
-    - '#008080'
-    - '#609898'
-    - '#F80000'
-    - '#000000'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
   brandStrength: 0.7292255689390004
   lightness: 0.2407628963701427
   saturation: 0.4860698813572526
