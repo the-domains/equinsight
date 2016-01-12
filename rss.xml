@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Unique insight into your horse's health]]></title>
+        <description><![CDATA[Unique insight into your horse's health]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 13:03:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Equinsight]]></title>
+            <description><![CDATA[<article><h1>Equinsight</h1><p>We're building a system that will give you unique insights into your horse's health, by combining cutting edge technology with equine veterinary expertise</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/121283c7949ed02289b97a323ed6c0eacb9a535b.jpg"></article>]]></description>
+            <link>undefinedequinsight/index.html</link>
+            <guid isPermaLink="false">66880aaa-c250-4dca-af93-943f37f265ed</guid>
+            <pubDate>Tue, 12 Jan 2016 13:02:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
